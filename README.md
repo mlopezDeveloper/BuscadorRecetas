@@ -8,3 +8,6 @@
   ```
   API: https://www.themealdb.com/
   ```
+![image](https://github.com/Codermex-freelance/BuscadorRecetas/assets/143505447/0a47db22-c587-4520-91c1-ae194c9a7527)
+
+![image](https://github.com/Codermex-freelance/BuscadorRecetas/assets/143505447/091d0fb0-80ed-4d03-af82-967bb0480846)
