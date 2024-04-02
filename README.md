@@ -11,3 +11,7 @@
 ![image](https://github.com/Codermex-freelance/BuscadorRecetas/assets/143505447/0a47db22-c587-4520-91c1-ae194c9a7527)
 
 ![image](https://github.com/Codermex-freelance/BuscadorRecetas/assets/143505447/091d0fb0-80ed-4d03-af82-967bb0480846)
+
+![image](https://github.com/Codermex-freelance/BuscadorRecetas/assets/143505447/f50429f4-b4a8-4048-b71d-b74e44e23253)
+
+![image](https://github.com/Codermex-freelance/BuscadorRecetas/assets/143505447/c9a5d3fe-8533-4f97-8a9b-2bd8078547e4)
