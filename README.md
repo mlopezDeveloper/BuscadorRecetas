@@ -5,6 +5,6 @@
   ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-yellow)
 </h1>
   
-   ```
+  ```
   API: https://www.themealdb.com/
   ```
